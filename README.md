@@ -1,2 +1,2 @@
 # TCManager
-Tuition Centre Manager
+Tuition Centre Manager Project Documentation
