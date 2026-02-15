@@ -19,13 +19,13 @@ Teaching staff
 - view class details
 - CRUD on student performance (with auto-generated system comment based on performance trend)
 
-Setup
+## Setup
 1. Get MySQL Connector: https://dev.mysql.com/downloads/connector/cpp/
 2. In project properties,
-   i) C/C++ -> General -> Additional Include Directories -> add 'include'
-   ii) Linker -> General -> Additional Library Directories -> add 'lib64'
-   iii) Liner -> Input -> Additional Dependencies -> add vs14/mysqlcppconn.lib
+   - C/C++ -> General -> Additional Include Directories -> add 'include'
+   - Linker -> General -> Additional Library Directories -> add 'lib64'
+   - Linker -> Input -> Additional Dependencies -> add vs14/mysqlcppconn.lib
 3. Get libmysql-cpp from NuGet Package Manager
 4. Test Accounts
-   i) **Admin:** ID: A01, PW: 123
-   ii) **Staff:** ID: S01, PW: 123
+   - **Admin:** ID: A01, PW: 123
+   - **Staff:** ID: S01, PW: 123
