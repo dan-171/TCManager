@@ -42,7 +42,7 @@ CREATE TABLE `adminbase` (
 --
 
 INSERT INTO `adminbase` (`AdminID`, `AdminPWD`, `AdminName`, `AdminHP`) VALUES
-('A01', '123', 'AdminName', '0111234567'),
+('A01', '123', 'AdminName', '0111234567');
 
 -- --------------------------------------------------------
 
